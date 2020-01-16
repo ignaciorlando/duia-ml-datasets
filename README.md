@@ -11,5 +11,6 @@ A continuación les proveemos una lista con algunos data sets que pueden utiliza
 6. [Automobile:](http://mlr.cs.umass.edu/ml/datasets/Automobile) Datos sobre vehículos. (205 muestras, 26 atributos).
 7. [Breast Cancer Wisconsin (Diagnostic):](http://mlr.cs.umass.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29) Datos describiendo diferentes tumores benignos y malignos en mamas.
 8. [Breast Cancer Wisconsin (Prognostic):](http://mlr.cs.umass.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Prognostic%29) Datos describiendo diferentes tumores e indicando si el cáncer recurrirá o no.
+9. [seeds Dataset:](http://archive.ics.uci.edu/ml/datasets/seeds) Datos del núcleo de distintos tipos de semillas de trigo. (210 muestras, 7 atributos).
 
-También pueden buscar datos nuevos en el [buscador de datos de Google](https://toolbox.google.com/datasetsearch), [Kaggle](http://kaggle.com/) o en [Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets).
+También pueden tomar cualquier otro de [UCI](https://archive.ics.uci.edu/ml/datasets.php), buscar datos nuevos en el [buscador de datos de Google](https://toolbox.google.com/datasetsearch), [Kaggle](http://kaggle.com/) o en [Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets).
